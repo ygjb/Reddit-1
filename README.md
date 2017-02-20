@@ -1,6 +1,4 @@
-# README
-
-# Reddit 
+### Reddit 
 This is a Reddit application writen in Ruby on Rails.
 
 ### Application URL 
