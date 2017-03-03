@@ -1,4 +1,4 @@
-### Reddit [![Build Status](https://travis-ci.org/coffeina/Reddit.svg?branch=master)](https://travis-ci.org/coffeina/Reddit)
+# Reddit [![Build Status](https://travis-ci.org/coffeina/Reddit.svg?branch=master)](https://travis-ci.org/coffeina/Reddit)
 This is a Reddit application writen in Ruby on Rails.
 
 
